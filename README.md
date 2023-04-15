@@ -1,10 +1,15 @@
-<<<<<<< HEAD
 # Trabajo-Practico
 Argentina Programa - Grupo 6
+
+Integrantes:
+        JULIÁN ANDRÉS BOIKO
+        EZEQUIEL HORACIO FIDALGO
+        JAVIER ORLEANS
+        ERARDO NAHUEL PEREZ
 
 
 Wireframe:
 https://whimsical.com/trabajo-integrador-BcBz1TJDe3qYWkXuwqsgcB
-=======
-# TPIntegradorArgentinaPrograma
->>>>>>> 56b858ff5a8d9c63e69499f404edd2f9c95c2221
+
+On line en netlify:
+https://regal-cactus-30ef58.netlify.app/
