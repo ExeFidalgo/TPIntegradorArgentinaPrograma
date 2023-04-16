@@ -5,8 +5,6 @@ Integrantes:
         JULIÁN ANDRÉS BOIKO
         EZEQUIEL HORACIO FIDALGO
         JAVIER ORLEANS
-        ERARDO NAHUEL PEREZ
-
 
 Wireframe:
 https://whimsical.com/trabajo-integrador-BcBz1TJDe3qYWkXuwqsgcB
